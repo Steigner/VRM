@@ -6,6 +6,6 @@ This repository is used to submit of given projects from course VRM. Course is f
 * Project_2 - planned release [2.5.2021] 
 
 #### Sources
-* [RPARAK Programming for robots and manipulators (VRM)](https://github.com/rparak/Programming-for-robots-and-manipulators-VRM)
+* [rparak Programming for robots and manipulators (VRM)](https://github.com/rparak/Programming-for-robots-and-manipulators-VRM)
 * [IACS FME BUT Programming for robots and manipulators](https://www.fme.vutbr.cz/en/studenti/predmety/233662)
 * [IACS FME BUT](https://uai.fme.vutbr.cz/en/)
