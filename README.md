@@ -1,5 +1,5 @@
 ### Programming for robots and manipulators
-This repository is used to submit assigned projects from the VRM course. Course is focused on practical and theoretical knowledge in robotics branch. Lecturer of this course is [Ing. Roman Parak](https://github.com/rparak). According to assignment, this repository have only 3 main folders:
+This repository is used to submit assigned projects from the VRM course. Course is focused on practical and theoretical knowledge in robotics branch. Lecturer of this course is [Ing. Roman Parak](https://github.com/rparak).
 
 * Presentation - Presentation about collaborative robotics, ROS and some interesting points. 
 * Seminar_paper - Seminar paper, which describe problematic of robots for medicine [[czech lang.]](https://en.wikipedia.org/wiki/Czech_language).
