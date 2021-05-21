@@ -19,4 +19,4 @@ All projects were created in 30-days trial versions of chosen software.
 
 ### References
 * [rparak Programming for robots and manipulators (VRM)](https://github.com/rparak/Programming-for-robots-and-manipulators-VRM)
-* [IACS FME BUT Programming for robots and manipulators](https://www.fme.vutbr.cz/en/studenti/predmety/233662)
+* [Faculty of Mechanical Engineering BUT](https://www.fme.vutbr.cz/en)
