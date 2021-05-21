@@ -1,6 +1,6 @@
 ### Programming for robots and manipulators
 
-**Course aims:** The goal of the subject Programming of robots and manipulators is to introduce students to modern approaches to robotic technology with focus on programming including solving kinematics/dynamics, optimization of movement, Industry 4.0 and utilization of artificial intelligence. Lecturer of this course (2021) is [Ing. Roman Parak](https://github.com/rparak).
+**Course aims:** The goal of the subject Programming of robots and manipulators is to introduce students to modern approaches to robotic technology with focus on programming including solving kinematics/dynamics, optimization of movement, Industry 4.0 and utilization of artificial intelligence. Lecturer of this course (2021): [Ing. Roman Parak](https://github.com/rparak).
 
 * Presentation - Presentation about collaborative robotics, ROS and some interesting points [[czech lang.]](https://en.wikipedia.org/wiki/Czech_language). 
 * Seminar_paper - Seminar paper, which describe problematic of robots for medicine [czech lang.].
