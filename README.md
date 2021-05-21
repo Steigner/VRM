@@ -14,6 +14,6 @@ https://user-images.githubusercontent.com/54715463/119114859-d3363200-ba26-11eb-
 
 * Project_3(self paced) - coming soon RoboDK 
 
-#### References
+### References
 * [rparak Programming for robots and manipulators (VRM)](https://github.com/rparak/Programming-for-robots-and-manipulators-VRM)
 * [IACS FME BUT Programming for robots and manipulators](https://www.fme.vutbr.cz/en/studenti/predmety/233662)
