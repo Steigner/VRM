@@ -1,5 +1,14 @@
 ### Programming for robots and manipulators
 
+### Software
+
+```
+OverLeaf, PowerPoint  = seminar paper, presentation
+ABB RobotStudio 2020  = project 1
+Visual Components 4.3 = project 2
+RoboDK 5.2            = project 3(comming soon)
+```
+
 **Course aims:** The goal of the subject Programming of robots and manipulators is to introduce students to modern approaches to robotic technology with focus on programming including solving kinematics/dynamics, optimization of movement, Industry 4.0 and utilization of artificial intelligence. Lecturer of this course (2021): [Ing. Roman Parak](https://github.com/rparak).
 
 * Presentation - Presentation about collaborative robotics, ROS and some interesting points [[czech lang.]](https://en.wikipedia.org/wiki/Czech_language). 
